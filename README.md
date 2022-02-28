@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swarngaurav
 - 👀 I’m interested in coding and ethical hacking
-- 🌱 I’m currently learning programming and data science 
+- 🌱 Python programmer and learning data science 
 
 <!---
 Swarngaurav/Swarngaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
